@@ -10,7 +10,7 @@ body{
     margin-left: 20%;
 }
 
-.cards{
+.carts{
     display: flex;
     justify-content: space-around;
     margin-top: 10%;
@@ -18,7 +18,7 @@ body{
 footer{
     height: 100px;
     background-color: rgb(20, 78, 78);
-   /* margin-top: 100%;*/
+
 }
 .ftr{
     margin-top:50%;
@@ -37,13 +37,13 @@ footer{
     justify-content: center;
     justify-content: space-between;
     margin-right: 100px;
-    /*background-color: aquamarine;*/
+
     width: 225px;
     margin-top: 30px;
-   
+
 }
 .col-md-4{
-   
+
     height: 168px;
 }
 .card-text3{
@@ -54,3 +54,19 @@ button{
     background-color: transparent;
 }
 
+.total-price{
+    background-color: aliceblue;
+    width: 300px;
+    margin-left: 40%;
+    margin-top: 100px;
+    height: 80px;
+    border: 5px solid aqua;
+    border-radius: 5px;
+}
+.tpct{
+    
+    width: 150px;
+    margin-left: 70px;
+    margin-top: 20px;
+
+}
